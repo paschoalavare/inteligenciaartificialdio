@@ -5,8 +5,8 @@
 <head>
 
 <br> A Inteligência Artifical veio para estabelecer uma otimização de idéias e informações para todos os setores empresariais.<br>
-<list>  - Todos os setores empresariais podem receber novas informações e projetos de acordo com as informações obtidas com a Inteligência Artificial podendo serem excutados nos processos em cada setor de destino apropriado.</br>
-<list>  - As informações que podemos estar acolhendo pode ser variadas, desde implementação de contextos, imagens e vídeos.
+- Todos os setores empresariais podem receber novas informações e projetos de acordo com as informações obtidas com a Inteligência Artificial podendo serem excutados nos processos em cada setor de destino apropriado.</br>
+- As informações que podemos estar acolhendo pode ser variadas, desde implementação de contextos, imagens e vídeos.
 
 # Começamos a destacar pesquisas:
 
