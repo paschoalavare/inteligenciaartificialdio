@@ -23,10 +23,13 @@ Com todo o contexto de estratégia em mãos vamos estar necessitando de algumas 
 
 ![Leonardo_Diffusion_XL_create_one_group_administration_sucess_m_3](https://github.com/paschoalavare/inteligenciaartificialdio/assets/101903228/040799c4-8e7e-4fb3-84d4-49a8ac9563da)
 
-A partir da Inteligência Artificial tivemos o privilégio de poupar muito tempo e estar criando nossa primeira imagem feita em questão de segundos para estarmos aplicando em nossos sliders de execução na estratégia que temos mãos.
+ - A partir da Inteligência Artificial tivemos o privilégio de poupar muito tempo e estar criando nossa primeira imagem feita em questão de segundos para estarmos aplicando em nossos sliders de execução na estratégia que temos mãos.
 
-# Tornar possível uma resultado e criação de vídeos:
+# Tornar possível um resultado e criação de vídeos:
 
+- Com toda tecnologia que temos acesso nada se tornar impossível, a partir desta estratégia que adquirimos juntamente com um levantameto detalhado da falha de comunicação do membro da equipe com a Inteligência Artificial podemos mensurar um resultado positivo ou negativo para devido treinamento para este membro.
+- A criação de vídeos possibilida diversidades em aúdio e interação para uma apresentação em um conteúdo que no qual poderiamos também estar utilizando.
+- Hoje a Inteligência Artifical esta presente nas TVS, Rádio comunicação, Redes Sociais com o intuito de otimizar a praticidade de tarefas das pessoas e organizações.
 
 
 </head>
